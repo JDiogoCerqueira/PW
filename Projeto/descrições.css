@@ -1,0 +1,32 @@
+#whole{
+    background-color:rgb(13, 170, 4);
+}
+h1{
+    text-align: center;
+    font-size: 100px;
+    
+}
+h2{
+    text-align: center;
+    font-size: 40px;
+}
+#one{
+    text-align: center;
+    font-size: 25px;
+}
+#two{
+    text-align: center;
+    font-size: 25px;
+}
+#three{
+    text-align: center;
+    font-size: 25px;
+}
+
+#table{
+    width: 60%; 
+    height: 40%;
+    text-align:center;
+    font-size: larger;
+   
+}
